@@ -7,9 +7,9 @@
 #  Remove the calling number from the MTC's when has non-numerical characters
 #  
 #  
-#  Usage: tap3edit_remove_callingnum.txt tapfile
+#  Usage: tap3edit_remove_callingnum tapfile
 #  
-#  E.g: tap3edit_remove_callingnum.txt CDOPER1OPER200001
+#  E.g: tap3edit_remove_callingnum CDOPER1OPER200001
 #  
 #  Note: The hexadecimal values may be displayed with unreadable charachters.
 #        To change those charachters you will need to handle them as Hexa/ASCII values.
