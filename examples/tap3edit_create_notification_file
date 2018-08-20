@@ -9,9 +9,9 @@
 #  
 #  This script will create a tap3 release 2 notification file
 #  
-#  Usage: tap3edit_create_notification_file.txt tapfile
+#  Usage: tap3edit_create_notification_file tapfile
 #  
-#  E.g: tap3edit_create_notification_file.txt CDOPER1OPER200001
+#  E.g: tap3edit_create_notification_file CDOPER1OPER200001
 #  
 #  Note: Please note that the file will be created with all 
 #        the dates as 20040101 and UTC as +0000. You can 
