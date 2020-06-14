@@ -1,8 +1,8 @@
 #line 1
 package parent;
 use strict;
-
-our $VERSION = '0.238';
+use vars qw($VERSION);
+$VERSION = '0.236';
 
 sub import {
     my $class = shift;
@@ -28,6 +28,3 @@ sub import {
 
 __END__
 
-=encoding utf8
-
-#line 127
